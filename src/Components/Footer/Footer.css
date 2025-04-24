@@ -1,0 +1,38 @@
+footer{
+    text-align:start ;
+    padding: 0px 0px 0px 0px;
+
+}
+
+.mb-4{
+    padding-left: 90px;
+    padding-top: 25px;
+    cursor: pointer;
+}
+.mb-4 .me-3-f :hover{
+    color: #0018b5;
+    transition: 0.3s;
+}
+.mb-4 .me-3-i :hover{
+    color: #980072;
+    transition: 0.3s;
+}
+.mb-4 .me-3-t :hover{
+    color: #6d80ff;
+    transition: 0.3s;
+}
+.mb-4 .me-3-y :hover{
+    color: #c4000d;
+    transition: 0.3s;
+}
+.Text{
+    padding-left: 90px;
+    padding-top: 25px;
+    color: #000000;
+    font-weight: 400;
+}
+p{
+    padding-left: 90px;
+    color: #000000;
+    font-weight: 400;
+}
